@@ -31,7 +31,7 @@
 </head>
 <body>
 
-<?php "<h1> Modifica 1 </h1>" ?>
+<?php "<h1> Modifica 2 </h1>" ?>
     <?php
     
     $name = "Flavio";
