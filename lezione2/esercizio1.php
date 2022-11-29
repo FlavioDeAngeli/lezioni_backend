@@ -43,7 +43,7 @@
     $prezzo3 = '4€';
 
     function saluto($name) {
-        echo "<h1>Ciao " . $name . "!</h1> 
+        echo "<h1>Ciao Ciao " . $name . "!</h1> 
               <h3>Benvenuto alla pasticceria MUSA</h3>
               <hr>";
     }
